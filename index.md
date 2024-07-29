@@ -41,7 +41,7 @@ Below, you can access direct links to projects that I participated.
 
 ### Front-End Web Development
 
-**2023** -- [Ceará 2050](https://app.ceara2050.ce.gov.br/) (Daniel Amaral, Murcio Filho, Ícaro Lima, Rafael Braga and Danielo Gomes).
+**2023** -- [Ceará 2050](https://web.archive.org/web/20240302075551/https://app.ceara2050.ce.gov.br/) (Daniel Amaral, Murcio Filho, Ícaro Lima, Rafael Braga and Danielo Gomes).
 
 ### Web Design
 
