@@ -4,8 +4,8 @@ title:  Encrypt second drive when the first is encrypted with TPM
 date:   2024-07-31 16:00 -03:00
 author: Murcio Filho
 tags:
-  - Linux
-  - Encryption
+  - linux
+  - encryption
 parent: Linux
 has_children: false
 ---
