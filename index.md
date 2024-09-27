@@ -37,7 +37,7 @@ Below, you can access direct links to projects that I participated.
 
 ### Full-stack Web Development
 
-**2023** -- [Faciliart](https://facili.art/) (using Ruby on Rails, Vanilla Javascript, TailwindCSS and DaisyUI as stack). [GitHub](https://github.com/murciof/faciliart) and [Video](https://www.youtube.com/watch?v=5KhWicsJb90).
+**2023** -- [Faciliart](https://github.com/murciof/faciliart) (using Ruby on Rails, Vanilla Javascript, TailwindCSS and DaisyUI as stack). [Video](https://youtu.be/TlHB5s3bWMM).
 
 ### Front-End Web Development
 
