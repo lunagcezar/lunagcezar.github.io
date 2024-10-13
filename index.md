@@ -57,6 +57,8 @@ Below, you can access direct links to projects that I participated.
 
 ## Experience
 
+This résumé is also available in my [LinkedIn profile](https://linkedin.com/in/murciof/).
+
 ### FUNCAP
 
 #### Front-end developer (January 2024 -- now)
@@ -87,13 +89,23 @@ Product 3D modeling with Fusion 360, landing page creation and visual identity s
 
 Participation in management decisions.
 
+### Group of Computer Networks, Software Engineering and Telecommunications (GREaT)
+
+#### Scientific Initiation (July 2015 -- August 2016)
+
+Cloud mobile computing research focused on the offloading computing area.
+
 ### Fortaleza Prefecture
 
 #### Computing Intern (December 2014 -- March 2016)
 
-**Location:** SESEC.
-
 Systems administration and computer maintenance.
+
+### Laboratory of Computer Systems Engineering (LESC)
+
+#### Intern
+
+Firmware development using UEFI technology.
 
 ### GTi Engenharia Jr.
 
@@ -104,10 +116,6 @@ Development of web projects in order to gain experience in Joomla, HTML and CSS.
 #### Trainee (December 2013 -- March 2014)
 
 Initial training on web development.
-
-## Other experiences
-
-You can find other experiences in my [LinkedIn profile](https://linkedin.com/in/murciof/).
 
 ## Education
 
