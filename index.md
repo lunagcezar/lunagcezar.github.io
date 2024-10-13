@@ -61,7 +61,7 @@ This résumé is also available in my [LinkedIn profile](https://linkedin.com/in
 
 ### FUNCAP
 
-#### Front-end developer (January 2024 -- now)
+#### Front-end developer (January 2024 -- **now**)
 
 Contracted as a Technological Innovation Scholarship Holder of Ceara's Chief Scientist of Digital Transformation Program by FUNCAP, doing implementations and improvements in the areas of Front-end and UI/UX Design using React, Mantine and Tailwind as technologies, having, as a highlight, the development of a dashboard with multiple filters that made the relatively complex data display more intuitive.
 
@@ -103,7 +103,7 @@ Systems administration and computer maintenance.
 
 ### Laboratory of Computer Systems Engineering (LESC)
 
-#### Intern
+#### Intern (April 2015 -- June 2015)
 
 Firmware development using UEFI technology.
 
