@@ -11,6 +11,8 @@ parent: CMake
 
 # Move external DLL to the build folder
 
+**Created:** 2024-04-10
+
 After adding your executable on [[CMakeLists]], you can do a file operation with [[CMake]]:
 
 ```cmake

@@ -12,6 +12,8 @@ has_children: false
 
 # ${1:$TM_FILENAME_BASE}
 
+**Created:** ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}
+
 
 
 ## References
