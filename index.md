@@ -20,17 +20,11 @@ You can contact me on this email address: [murciofilho94@gmail.com](mailto:murci
 
 ## Skills
 
-**Areas:** Front-end (React), Back-end (Rails), UI/UX Design
+**Areas:** Front-end (React), Back-end (Rails), UI/UX Design, Graphic Design
 
 **Languages:** Typescript, Javascript, Ruby, HTML, CSS
 
 **Frameworks:** React, Rails, Tailwind CSS, Bootstrap
-
-**3D:** Fusion 360, FreeCAD
-
-**Vector:** Adobe Illustrator, Affinity Designer, Inkscape
-
-**Raster:** Affinity Photo, Krita
 
 ## Portfolio
 
@@ -78,19 +72,21 @@ Participation in the project called "Ceará 2050" in the areas of Design and Fro
 
 #### Ruby on Rails Developer (May 2021 -- April 2022)
 
-Development contribution to the internal company system using Ruby on Rails and Bootstrap.
+Participation, as an autonomous worker, of the development of a sports betting and betting house management system using Ruby on Rails and Bootstrap.
 
 ### VibEye
 
 #### Design intern (September 2018 -- March 2019)
 
+Same activities as listed in the "Designer" occupation, adding the creation of the company's landing page.
+
 #### Designer (September 2017 -- August 2018)
 
-Product 3D modeling with Fusion 360, landing page creation and visual identity study.
+Actuation in an assistive technology startup, being the 3rd place in the brazilian finals of the Microsoft Imagine Cup 2017, as a one of the designers of VibSense, device that has the purpose of help visually impaired people to have autonomy through the detection of suspended obstacles through a ultrasound sensor, something that the white cane can't detect. Also, contributed to the creation of a visual identity for the brand.
 
 #### Partner (September 2017 -- June 2018)
 
-Participation in management decisions.
+Company partner, having participation in management decisions during the length of the contract.
 
 ### Group of Computer Networks, Software Engineering and Telecommunications (GREaT)
 
