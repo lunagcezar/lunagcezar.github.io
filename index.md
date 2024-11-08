@@ -10,7 +10,9 @@ nav_order: 1
 
 ## About me
 
-Hello! I am a bachelor in Design from Federal University of Ceará with experience in Web Development (Ruby on Rails, Bootstrap and Tailwind), UI Design, Web Design, Vector Art (Affinity Designer, Adobe Illustrator and Inkscape) and 3D CAD Modeling (Fusion 360 and FreeCAD).
+Murcio Filho is a bachelor of Design from Federal University of Ceará, having experience in UI/UX design, front-end development (React / Javascript) and back-end development (Ruby on Rails). Has familiarity with relevant governamental projects, like the front-end development of the Ceará sem Fome Platform and the Ceará 2050 new portal. Also, has already participated of an assistive technology startup (VibEye) that was in the 3rd place of the brazilian Microsoft Imagine Cup 2017 finals, where collaborated with the design of the device and the visual identity of the brand.
+
+For having graduated in Design, but also studied part of the Computation Engineering course in UFC, seeks to combine the technological knowledge adquired in the former course with the innovation and artistic liberty promoted in the Design course to build solutions that have new concepts, such as [Faciliart](https://github.com/murciof/faciliart), a generative art platform that allows the user to create this type of art without coding.
 
 ## Contact
 
@@ -18,11 +20,11 @@ You can contact me on this email address: [murciofilho94@gmail.com](mailto:murci
 
 ## Skills
 
-**Areas:** Design, UI/UX Design, Web Design, 3D CAD Modeling, Vector Art, Web Development
+**Areas:** Front-end (React), Back-end (Rails), UI/UX Design
 
-**Languages:** HTML, CSS, Ruby, Typescript, LaTeX
+**Languages:** Typescript, Javascript, Ruby, HTML, CSS
 
-**Frameworks:** Bootstrap, TailwindCSS, Ruby on Rails, React
+**Frameworks:** React, Rails, Tailwind CSS, Bootstrap
 
 **3D:** Fusion 360, FreeCAD
 
