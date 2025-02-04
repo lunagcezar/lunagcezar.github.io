@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Receita Federal de Fortaleza (2024-11-11)
+title:  20241111 - Receita Federal de Fortaleza 
 date:   2024-11-11 20:02 -03:00
 author: Murcio Filho
 tags:
@@ -13,23 +13,23 @@ parent: Urban Sketching
 has_children: false
 ---
 
-# Receita Federal de Fortaleza (2024-11-11)
+# 20241111 - Receita Federal de Fortaleza 
 
 **Created:** 2024-11-11
 
 **Medium:** Fineliner
 
-## Drawing (2024-11-11)
+## 20241111 - Drawing
 
 ![Drawing](/assets/drawings/urban_sketching/20241111-Receita_Federal_Fortaleza%20(Monochrome%20-%20Erode%20Smoothing).png)
 
-## Meeting (2024-11-09)
+## 20241109 - Meeting
 
 ![Meeting](/assets/photos/urban_sketching/20241109-receita_federal_fortaleza/meeting.jpeg)
 
 Photo credits: [@uskfortaleza](https://www.instagram.com/uskfortaleza/)
 
-## Building (2024-11-09)
+## 20241109 - Building
 
 ![Building 1](/assets/photos/urban_sketching/20241109-receita_federal_fortaleza/building-1.jpg)
 

@@ -8,7 +8,7 @@ tags:
   - drawing
   - index
 parent: Drawings
-has_children: true
+
 ---
 
 # Fictional Cityscapes

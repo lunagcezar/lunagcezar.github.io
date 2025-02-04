@@ -6,7 +6,7 @@ author: Murcio Filho
 tags:
   - index
   - art
-has_children: true
+
 ---
 
 # Drawings

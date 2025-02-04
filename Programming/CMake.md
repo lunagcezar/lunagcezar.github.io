@@ -7,7 +7,7 @@ tags:
   - cmake
   - index
 parent: Programming
-has_children: true
+
 ---
 
 # CMake

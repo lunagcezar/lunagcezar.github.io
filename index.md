@@ -12,7 +12,7 @@ nav_order: 1
 
 Murcio Filho is a bachelor of Design from Federal University of Ceará, having experience in UI/UX design, front-end development (React / Javascript) and back-end development (Ruby on Rails). Has familiarity with relevant governmental projects, like the front-end development of the Ceará sem Fome Platform and the Ceará 2050 new portal. Also, has already participated of an assistive technology startup (VibEye) that was in the 3rd place of the brazilian Microsoft Imagine Cup 2017 finals, where collaborated with the design of the device and the visual identity of the brand.
 
-For having graduated in Design, but also studied part of the Computation Engineering course in UFC, seeks to combine the technological knowledge acquired in the former course with the innovation and artistic liberty promoted in the Design course to build solutions that have new concepts, such as [Faciliart](https://github.com/murciof/faciliart), a generative art platform that allows the user to create this type of art without coding.
+For having graduated in Design, but also studied part of the Computation Engineering course in UFC, seeks to combine the technological knowledge acquired in the former course with the innovation and artistic liberty promoted in the Design course to build solutions that have new concepts, such as [Faciliart](https://facili.art), a generative art platform that allows the user to create this type of art without coding.
 
 ## Contact
 
@@ -34,7 +34,7 @@ Below, you can access direct links to projects that I participated.
 
 ### Full-stack Web Development
 
-**2023** -- [Faciliart](https://github.com/murciof/faciliart) (using Ruby on Rails, Vanilla Javascript, TailwindCSS and DaisyUI as stack). [Video](https://youtu.be/TlHB5s3bWMM).
+**2023** -- [Faciliart](https://facili.art) (using Ruby on Rails, Vanilla Javascript, TailwindCSS and DaisyUI as stack). [GitHub](https://github.com/murciof/faciliart).
 
 ### Front-End Web Development
 
