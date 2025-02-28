@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Murcio Filho
-author: Murcio Filho
+title: Luna G. Cezar 🏳️‍⚧️
+author: Luna G. Cezar
 email: murciofilho94@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  murciof's personal wiki
+  Luna G. Cezar's website
 domain: "murciof.com"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://murciof.com" # the base hostname & protocol for your site, e.g. http://example.com

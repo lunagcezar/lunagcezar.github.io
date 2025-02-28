@@ -10,7 +10,7 @@ nav_order: 1
 
 ## About me
 
-Murcio Filho is a bachelor of Design from Federal University of Ceará, having experience in UI/UX design, front-end development (React / Javascript) and back-end development (Ruby on Rails). Has familiarity with relevant governmental projects, like the front-end development of the Ceará sem Fome Platform and the Ceará 2050 new portal. Also, has already participated of an assistive technology startup (VibEye) that was in the 3rd place of the brazilian Microsoft Imagine Cup 2017 finals, where collaborated with the design of the device and the visual identity of the brand.
+Luna G. Cezar is a bachelor of Design from Federal University of Ceará, having experience in UI/UX design, front-end development (React / Javascript) and back-end development (Ruby on Rails). Has familiarity with relevant governmental projects, like the front-end development of the Ceará sem Fome Platform and the Ceará 2050 new portal. Also, has already participated of an assistive technology startup (VibEye) that was in the 3rd place of the brazilian Microsoft Imagine Cup 2017 finals, where collaborated with the design of the device and the visual identity of the brand.
 
 For having graduated in Design, but also studied part of the Computation Engineering course in UFC, seeks to combine the technological knowledge acquired in the former course with the innovation and artistic liberty promoted in the Design course to build solutions that have new concepts, such as [Faciliart](https://facili.art), a generative art platform that allows the user to create this type of art without coding.
 
@@ -38,11 +38,11 @@ Below, you can access direct links to projects that I participated.
 
 ### Front-End Web Development
 
-**2023** -- [Ceará 2050](https://web.archive.org/web/20240302075551/https://app.ceara2050.ce.gov.br/) (Daniel Amaral, Murcio Filho, Ícaro Lima, Rafael Braga and Danielo Gomes).
+**2023** -- [Ceará 2050](https://web.archive.org/web/20240302075551/https://app.ceara2050.ce.gov.br/) (Daniel Amaral, Luna G. Cezar, Ícaro Lima, Rafael Braga and Danielo Gomes).
 
 ### Web Design
 
-**2020** -- [UFC and DAUD against COVID-19](https://murciof.github.io/PG3-UFC-2020-1/) (Beatrice Arraes, Mateus Carvalho and Murcio Filho). [More information](https://github.com/murciof/PG3-UFC-2020-1/blob/master/README.md).
+**2020** -- [UFC and DAUD against COVID-19](https://murciof.github.io/PG3-UFC-2020-1/) (Beatrice Arraes, Mateus Carvalho and Luna G. Cezar). [More information](https://github.com/murciof/PG3-UFC-2020-1/blob/master/README.md).
 
 **2018** -- [VibEye](https://web.archive.org/web/20181230071908if_/vibeye.com.br/).
 
@@ -50,7 +50,7 @@ Below, you can access direct links to projects that I participated.
 
 ### 3D
 
-**2019** -- [VibSense Plus Feb. 2019 version](https://skfb.ly/6GNqG) (Samuel Jadson Lima on Creation/Design and Murcio Filho on 3D Modeling).
+**2019** -- [VibSense Plus Feb. 2019 version](https://skfb.ly/6GNqG) (Samuel Jadson Lima on Creation/Design and Luna G. Cezar on 3D Modeling).
 
 ## Experience
 

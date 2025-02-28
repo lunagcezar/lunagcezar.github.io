@@ -2,7 +2,7 @@
 layout: default
 title:  CMakeLists
 date:   2024-04-10 12:00 -03:00
-author: Murcio Filho
+author: Luna G. Cezar
 tags:
   - cmake
 grand_parent: Programming

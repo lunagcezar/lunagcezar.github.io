@@ -2,7 +2,7 @@
 layout: default
 title:  20241111 - Receita Federal de Fortaleza 
 date:   2024-11-11 20:02 -03:00
-author: Murcio Filho
+author: Luna G. Cezar
 tags:
   - art
   - architecture

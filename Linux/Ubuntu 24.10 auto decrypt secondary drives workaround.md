@@ -2,7 +2,7 @@
 layout: default
 title:  Ubuntu 24.10 auto decrypt secondary drives workaround
 date:   2024-10-12 23:49 -03:00
-author: Murcio Filho
+author: Luna G. Cezar
 tags:
   - linux
   - encryption

@@ -2,7 +2,7 @@
 layout: default
 title:  ${1:$TM_FILENAME_BASE}
 date:   ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE} ${CURRENT_HOUR}:${CURRENT_MINUTE} ${CURRENT_TIMEZONE_OFFSET}
-author: Murcio Filho
+author: Luna G. Cezar
 tags:
   -
 grand_parent:
