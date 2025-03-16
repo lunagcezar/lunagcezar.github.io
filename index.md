@@ -28,13 +28,13 @@ You can contact me on this email address: [murciofilho94@gmail.com](mailto:murci
 
 ## Portfolio
 
-Most of my contributions can be found on [Behance](https://www.behance.net/murciof), [GitHub](https://github.com/murciof) and [Shutterstock](https://www.shutterstock.com/g/murciof).
+Most of my contributions can be found on [Behance](https://www.behance.net/lunagcezar), [GitHub](https://github.com/lunagcezar) and [Shutterstock](https://www.shutterstock.com/g/lunagcezar).
 
 Below, you can access direct links to projects that I participated.
 
 ### Full-stack Web Development
 
-**2023** -- [Faciliart](https://facili.art) (using Ruby on Rails, Vanilla Javascript, TailwindCSS and DaisyUI as stack). [GitHub](https://github.com/murciof/faciliart).
+**2023** -- [Faciliart](https://facili.art) (using Ruby on Rails, Vanilla Javascript, TailwindCSS and DaisyUI as stack). [GitHub](https://github.com/lunagcezar/faciliart).
 
 ### Front-End Web Development
 
@@ -42,11 +42,11 @@ Below, you can access direct links to projects that I participated.
 
 ### Web Design
 
-**2020** -- [UFC and DAUD against COVID-19](https://murciof.github.io/PG3-UFC-2020-1/) (Beatrice Arraes, Mateus Carvalho and Luna G. Cezar). [More information](https://github.com/murciof/PG3-UFC-2020-1/blob/master/README.md).
+**2020** -- [UFC and DAUD against COVID-19](https://lunagcezar.github.io/PG3-UFC-2020-1/) (Beatrice Arraes, Mateus Carvalho and Luna G. Cezar). [More information](https://github.com/lunagcezar/PG3-UFC-2020-1/blob/master/README.md).
 
 **2018** -- [VibEye](https://web.archive.org/web/20181230071908if_/vibeye.com.br/).
 
-**2016** -- [Bartender](https://murciof.github.io/bartender-front-end).
+**2016** -- [Bartender](https://lunagcezar.github.io/bartender-front-end).
 
 ### 3D
 
@@ -54,7 +54,7 @@ Below, you can access direct links to projects that I participated.
 
 ## Experience
 
-This résumé is also available in my [LinkedIn profile](https://linkedin.com/in/murciof/).
+This résumé is also available in my [LinkedIn profile](https://linkedin.com/in/lunagcezar/).
 
 ### FUNCAP
 
