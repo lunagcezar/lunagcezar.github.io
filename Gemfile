@@ -45,3 +45,5 @@ gem "webrick"
 gem 'csv'
 
 gem 'faraday-retry'
+
+gem 'rubocop', require: false
