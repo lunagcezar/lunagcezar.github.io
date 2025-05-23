@@ -16,7 +16,7 @@ For having graduated in Design, but also studied part of the Computation Enginee
 
 ## Contact
 
-You can contact me on this email address: [lunagondimcezar@gmail.com](mailto:lunagondimcezar@gmail.com)
+You can contact me on this email address: [luna@artemisluna.com.br](mailto:luna@artemisluna.com.br)
 
 ## Skills
 
