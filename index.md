@@ -10,7 +10,7 @@ nav_order: 1
 
 ## About me
 
-Luna G. Cezar is a bachelor of Design from Federal University of Ceará, having experience in UI/UX design, front-end development (React / Javascript) and back-end development (Ruby on Rails). Has familiarity with relevant governmental projects, like the front-end development of the Ceará sem Fome Platform and the Ceará 2050 new portal. Also, has already participated of an assistive technology startup (VibEye) that was in the 3rd place of the brazilian Microsoft Imagine Cup 2017 finals, where collaborated with the design of the device and the visual identity of the brand.
+Luna G. Cezar is a bachelor of Design from Federal University of Ceará, having experience in UI/UX design, front-end development (React, Vue, Astro and Javascript) and back-end development (Ruby on Rails). Has familiarity with relevant governmental projects, like the front-end development of the Ceará sem Fome Platform and the Ceará 2050 new portal. Also, has already participated of an assistive technology startup (VibEye) that was in the 3rd place of the brazilian Microsoft Imagine Cup 2017 finals, where collaborated with the design of the device and the visual identity of the brand.
 
 For having graduated in Design, but also studied part of the Computation Engineering course in UFC, seeks to combine the technological knowledge acquired in the former course with the innovation and artistic liberty promoted in the Design course to build solutions that have new concepts, such as [Faciliart](https://facili.art), a generative art platform that allows the user to create this type of art without coding.
 
@@ -55,6 +55,14 @@ Below, you can access direct links to projects that I participated.
 ## Experience
 
 This résumé is also available in my [LinkedIn profile](https://linkedin.com/in/lunagcezar/).
+
+### Ártemis Luna Sistemas
+
+#### Proprietor
+
+#### Front-end developer (January 2025 -- **now**)
+
+Contracted to handle front-end development tasks from Jutech Solutions LLC, participating, so far, in two projects: the first developed in Vue.js; the second with Astro and React, using Prisma as the ORM and Supabase for database hosting, including authentication and data update operations.
 
 ### FUNCAP
 
@@ -153,5 +161,3 @@ Initial training on web development.
 **Issued:** 2023-09-18
 
 [Link to certification](https://courses.nvidia.com/certificates/731c7a735a5f44d08d793188173c6d94/)
-
-
