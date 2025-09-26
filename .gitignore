@@ -3,3 +3,5 @@ _site
 .jekyll-metadata
 
 assets/js/zzzz-search-data.json
+
+.tool-versions
