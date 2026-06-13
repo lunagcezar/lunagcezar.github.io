@@ -28,6 +28,13 @@ github_username: lunagcezar
 markdown: kramdown
 theme: just-the-docs
 
+# Sass configuration – silence Dart Sass deprecation warnings from theme
+sass:
+  silence_deprecations:
+    - import
+    - global-builtin
+    - color-functions
+
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark_override
 
